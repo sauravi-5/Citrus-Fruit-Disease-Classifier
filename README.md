@@ -26,7 +26,7 @@ The CNN model used for this project has been built using Keras, which is an open
 
 **Training and Testing**
 
-The dataset has been split into training, validation, and testing sets, with a split ratio of 8:1:1. The model has been trained for 20 epochs with a batch size of 32. The Adam optimizer has been used. The model has been evaluated on the testing set and has achieved an accuracy of 89.84%.
+The dataset has been split into training, validation, and testing sets, with a split ratio of 8:1:1. The model has been trained for 20 epochs with a batch size of 32. The Adam optimizer has been used.
 
 
 **Results**
