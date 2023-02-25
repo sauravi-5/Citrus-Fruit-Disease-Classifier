@@ -1,4 +1,4 @@
-![img](""C:\Users\Sauravi\Downloads\images.jpeg"")
+![img]("img.jpeg")
 
 This project aims to classify four types of citrus fruit diseases on the basis of images of oranges using Convolutional Neural Networks (CNN). The CNN model has been trained on a dataset containing images of diseased and healthy oranges
 
