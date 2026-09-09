@@ -1,6 +1,6 @@
 # Citrus Fruit Disease Classifier
 
-![img]("./img.jpeg")
+![Citrus Fruit Disease Classifier](img.jpeg)
 
 A deep learning project that classifies citrus fruit (oranges) as healthy or diseased using a Convolutional Neural Network (CNN).
 
